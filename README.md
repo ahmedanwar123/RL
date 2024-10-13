@@ -6,5 +6,8 @@ as you will use tensorflow 1.5.0
 ``` bash
 pip install -r requirements.txt
 ```
+``` bash
+
 python3 -m pip install gym
 python3 -m pip install pygame
+```
